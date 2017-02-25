@@ -11,6 +11,25 @@ This project aims to be a curation on some resources around this topic, as well 
 
 ![computer says no](https://media3.giphy.com/media/OrvTlew7Lwhfa/giphy.gif)
 
+## Quick Cheatsheet
+
+### Do
+:thumbsup:
+
+- Do keep it short and factual. *How can users quickly understand the situation?*
+- Do offer a suggestion / next action. *How can users move forward from this?*
+- Do try to provide a link (support page, search on StackOverflow, etc.) if possible *Where can users see more detailed information?*
+- Do provide enough context to the specific exception (helps user debug). *How can users search on manuals / online with these information?*
+- Do empathize with users. *How would you react if you see this message?*
+
+### Don't
+:thumbsdown:
+
+- Avoid vague explanations that you don't understand either. *We've all been there before.*
+- Don't use the wrong tone, and scare / offend the user. *It's likely an error from our part, not the user.*
+- Avoid reference to implementation details. *Less noise.*
+- Avoid abbreviations. *Unless using global terms, users likely do not understand*
+
 ## Resources
 
 ### Official Style Guides
@@ -28,8 +47,8 @@ This project aims to be a curation on some resources around this topic, as well 
 
 Have an opinion? Perhaps, a best practice you know of?
 
-Please feel free to submit a [pull request](https://github.com/kelvintaywl/computer-says-no/pulls) or [issue](https://github.com/kelvintaywl/computer-says-no/issues)!
+Please feel free to share via a [pull request](https://github.com/kelvintaywl/computer-says-no/pulls) or [issue](https://github.com/kelvintaywl/computer-says-no/issues)!
 
-Thanks for being awesome! :thumbsup:
+Thanks for being awesome! :raised_hands:
 
 The more informed we are, as fellow engineers, the better we become at our craft :beers:
