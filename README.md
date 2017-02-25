@@ -1,10 +1,11 @@
 # Computer Says No
 
 It's never easy to write a good message.
-It's even harder to write an error message.
+
+It's **even harder** to write an error message.
 
 As engineers, this is a challenge. Unless your project / company
-has a dedicated UX guy, or perhaps a copywriter you can bug (:beetle: no pun intended), it is hard for engineers to write error messages that are succinct, informative and readable.
+has a dedicated UX guy, or perhaps a copywriter you can bug (:beetle: no pun intended), it is hard for engineers to write error messages that are **succinct**, **informative** and **readable**.
 
 This project aims to be a curation on some resources around this topic, as well as a quick cheatsheet for fellow engineers :bow:
 
@@ -25,8 +26,10 @@ This project aims to be a curation on some resources around this topic, as well 
 
 ## Contributing
 
-Have an opinion? Perhaps, a best practice you know of? Thanks for being awesome! :thumbsup:
+Have an opinion? Perhaps, a best practice you know of?
 
-Please feel free to submit a [pull request](pulls) or [issue](issues)!
+Please feel free to submit a [pull request](https://github.com/kelvintaywl/computer-says-no/pulls) or [issue](https://github.com/kelvintaywl/computer-says-no/issues)!
+
+Thanks for being awesome! :thumbsup:
 
 The more informed we are, as fellow engineers, the better we become at our craft :beers:
